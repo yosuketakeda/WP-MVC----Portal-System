@@ -1,0 +1,274 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: DronesPov\n"
+"POT-Creation-Date: 2020-11-30 15:05+0530\n"
+"PO-Revision-Date: 2020-11-08 19:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: dronespov.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: autoload.php:134
+msgid "Database table Not installed correctly."
+msgstr ""
+
+#: lib/app/controllers/class-admin-list.php:278
+msgid "Mark paid"
+msgstr ""
+
+#: lib/app/controllers/class-admin-list.php:280
+msgid "Mark unpaid"
+msgstr ""
+
+#: lib/app/controllers/class-create-invoice.php:68
+msgid "Successfully updated invoice."
+msgstr ""
+
+#: lib/app/controllers/class-create-invoice.php:68
+msgid "Create New here."
+msgstr ""
+
+#: lib/app/controllers/class-create-invoice.php:72
+msgid "Successfully created invoice."
+msgstr ""
+
+#: lib/app/controllers/class-create-invoice.php:77
+#: lib/app/controllers/class-login.php:78
+msgid "All fields are mandetory."
+msgstr ""
+
+#: lib/app/controllers/class-login.php:40
+msgid "User doesn't exist."
+msgstr ""
+
+#: lib/app/controllers/class-login.php:49
+msgid "Please confirm your email. Check mailbox."
+msgstr ""
+
+#: lib/app/controllers/class-login.php:75
+msgid "Login failed."
+msgstr ""
+
+#: lib/app/controllers/class-register.php:40
+msgid "Please accept the Terms of use."
+msgstr ""
+
+#: lib/app/controllers/class-register.php:67
+msgid "Confirmation email sent. Please confirm your email."
+msgstr ""
+
+#: lib/app/controllers/class-register.php:71
+msgid "Registration failed. Please try again."
+msgstr ""
+
+#: lib/app/controllers/class-register.php:75
+msgid "User with that email exists"
+msgstr ""
+
+#: lib/app/controllers/class-register.php:79
+msgid "All fields are mandatory"
+msgstr ""
+
+#: lib/app/controllers/class-register.php:94
+msgid "Please confirm email | Dronespointofview"
+msgstr ""
+
+#: lib/app/controllers/class-register.php:103
+msgid "Please click this link to confirm your email"
+msgstr ""
+
+#: lib/app/controllers/class-register.php:111
+msgid "New user registered."
+msgstr ""
+
+#: lib/app/controllers/class-register.php:113
+msgid "Name"
+msgstr ""
+
+#: lib/app/controllers/class-register.php:115
+msgid "Email"
+msgstr ""
+
+#: lib/app/controllers/class-register.php:117
+msgid "Company"
+msgstr ""
+
+#: lib/app/views/admin/upload-invoice.php:28
+msgid "Update invoice #"
+msgstr ""
+
+#: lib/app/views/admin/upload-invoice.php:28
+msgid "Create new invoice"
+msgstr ""
+
+#: lib/class-cron.php:59
+msgid "Every "
+msgstr ""
+
+#: lib/class-user.php:21
+msgid "Client"
+msgstr ""
+
+#: src/class-install.php:63
+msgid "The Plugin can't be activated because your PHP version"
+msgstr ""
+
+#: src/class-install.php:64
+msgid "is less than required "
+msgstr ""
+
+#: src/class-routes.php:95
+msgid "Login | Dronespointofview"
+msgstr ""
+
+#: src/class-routes.php:127
+msgid "Register | Dronespointofview"
+msgstr ""
+
+#: src/class-routes.php:147
+msgid "Admin > Invoice > View | Dronespointofview"
+msgstr ""
+
+#: src/class-routes.php:174
+msgid "Admin > Invoice > Upload | Dronespointofview"
+msgstr ""
+
+#: src/class-routes.php:203
+msgid "Admin > Invoice > Deleted | Dronespointofview"
+msgstr ""
+
+#: src/class-routes.php:229
+msgid "Admin > Invoice > List | Dronespointofview"
+msgstr ""
+
+#: src/class-routes.php:256
+msgid "Client > Invoice > View | Dronespointofview"
+msgstr ""
+
+#: src/class-routes.php:284
+msgid "Client > Invoice > List | Dronespointofview"
+msgstr ""
+
+#: src/class-settings.php:71
+msgid "Company name"
+msgstr ""
+
+#: src/class-settings.php:77
+msgid "Company email"
+msgstr ""
+
+#: src/class-settings.php:83
+msgid "Phone Number"
+msgstr ""
+
+#: src/class-settings.php:89
+msgid "Street Address"
+msgstr ""
+
+#: src/class-settings.php:95
+msgid "City"
+msgstr ""
+
+#: src/class-settings.php:101
+msgid "State"
+msgstr ""
+
+#: src/class-settings.php:107
+msgid "ZIP"
+msgstr ""
+
+#: src/class-settings.php:113
+msgid "Country"
+msgstr ""
+
+#: src/class-settings.php:186
+msgid "Added"
+msgstr ""
+
+#: src/class-settings.php:187
+msgid "Due"
+msgstr ""
+
+#: src/class-settings.php:188
+msgid "Overdue"
+msgstr ""
+
+#: src/class-settings.php:189
+msgid "Paid"
+msgstr ""
+
+#: src/class-settings.php:206 src/class-settings.php:214
+#: src/class-settings.php:222 src/class-settings.php:230
+msgid "Save"
+msgstr ""
+
+#: src/class-settings.php:246
+msgid "Added Invoice"
+msgstr ""
+
+#: src/class-settings.php:249 src/class-settings.php:256
+#: src/class-settings.php:265 src/class-settings.php:272
+msgid "Subject"
+msgstr ""
+
+#: src/class-settings.php:251
+msgid "Body"
+msgstr ""
+
+#: src/class-settings.php:253
+msgid "Due Invoice"
+msgstr ""
+
+#: src/class-settings.php:258 src/class-settings.php:267
+msgid "Template"
+msgstr ""
+
+#: src/class-settings.php:260
+msgid "Overdue Invoice"
+msgstr ""
+
+#: src/class-settings.php:263
+msgid "Email Interval"
+msgstr ""
+
+#: src/class-settings.php:269
+msgid "Paid Invoice"
+msgstr ""
+
+#: src/class-settings.php:285 src/class-settings.php:296
+#: src/class-settings.php:307 src/class-settings.php:318
+msgid "Allowed tags are: "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "DronesPov"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://dronespointofview.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom built Invoice management service."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Nirjhar Lo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://nirjharlo.com"
+msgstr ""
